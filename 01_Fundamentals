@@ -1,0 +1,95 @@
+Day1.md
+1.Data
+   collection of raw facts, figures, observations or values tht do not havee much meaning.After processing,data becomes much useful information. Eg : Custome Name, Age 
+2.Information
+   Processed and organized data that provides meaning and helps in decsion making
+3. Types of data
+   ---Structured Data :  Data stored in rows and columns Ex: Employe table 
+ stored in SQL Server, MySQL, PostgreSQL
+ ---Semi structured Data : Data with some structure but not fixed tables ex : XML, JSON
+  ---Unstructured Data : Data without predefined format  Ex : Images,Video
+4. What is Database?
+  An organized collection of related data stored electronically so it can be easily accessed, updated, and managed.
+
+Instead of storing millions of records in Excel, companies use databases because they are:
+
+Faster
+More secure
+Easy to search
+Easy to update
+Can handle large volumes of data
+
+Example:
+An online shopping website stores:
+
+Customers
+Orders
+Products
+Payments
+
+All these records are stored in a database.
+
+5. Types of Database
+Relational Database (RDBMS)
+
+Stores data in tables with rows and columns.
+
+Examples:
+
+PostgreSQL
+MySQL
+SQL Server
+Oracle
+
+Uses SQL.
+
+NoSQL Database
+
+Stores data in flexible formats.
+
+Examples:
+
+MongoDB
+Cassandra
+Redis
+
+Suitable for:
+
+Social media
+IoT
+Real-time applications
+6. What is SQL?
+
+SQL stands for Structured Query Language.
+
+It is the standard language used to communicate with relational databases.
+
+Using SQL we can:
+
+Retrieve data
+Insert data
+Update data
+Delete data
+Create tables
+Create databases
+Analyze data
+
+Example:
+
+SELECT * FROM Employee;
+
+This retrieves all records from the Employee table.
+
+7. What is Data Engineering?
+
+Data Engineering is the process of designing, building, and maintaining systems that collect, clean, transform, store, and deliver data for analytics and business decision-making.
+
+A Data Engineer builds data pipelines that move data from multiple sources to a data warehouse or data lake.
+
+Common Responsibilities
+Write SQL queries
+Develop ETL/ELT pipelines
+Automate data processing using Python
+Build data warehouses
+Maintain data quality
+Optimize performance
