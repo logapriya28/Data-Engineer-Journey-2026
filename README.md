@@ -32,8 +32,6 @@ Become a Product-Based Data Engineer.
 
 ## 📅 Challenge
 
-365 Days of Learning Data Engineering.
-
 Every topic includes:
 - Notes
 - Practice
