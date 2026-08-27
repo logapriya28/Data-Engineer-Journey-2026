@@ -1,0 +1,16 @@
+# Data Engineering Journey
+
+I am learning Data Engineering from August 2026.
+
+## Current Focus
+SQL
+
+## Day 1
+Topics learned:
+- CREATE
+- INSERT
+- UPDATE
+- DELETE
+- CTAS
+- Temporary Tables
+- CTE
